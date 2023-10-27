@@ -1,5 +1,5 @@
 ---
-- name: Playbook to install docker and run Docker coantainer
+- name: Playbook to install docker and run Docker container
   hosts: test_server
   become: true
   
